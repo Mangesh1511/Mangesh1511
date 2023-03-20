@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [Projects related to](Node.js,Express,MERN)
+- 👯 I’m looking to collaborate on [Projects related to Node.JS,Express,React,Django](Node.js,Express,MERN)
 
 - 📫 How to reach me **manpatil1451@gmail.com**
 
