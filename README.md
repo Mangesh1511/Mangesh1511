@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangesh1511" alt="mangesh1511" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on [Projects related to Node.JS,Express,React,Django](Node.js,Express,MERN)
 
