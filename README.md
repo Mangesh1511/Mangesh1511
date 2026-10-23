@@ -1,6 +1,6 @@
 # Hi, I'm Mangesh Dudhgaonkar Patil
 
-**Backend engineer at PTC Onshape · Java, Spring, distributed systems, and AI integrations**
+**Platform Engineer· Backend , databases, Queues, distributed systems, and AI integrations**
 
 I build backend systems that make products reliable and developers more productive. My work spans large-scale data migrations, API performance, search, and production AI assistants. Outside work, I build tools that solve everyday problems and write about how they work.
 
